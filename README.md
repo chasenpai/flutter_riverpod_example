@@ -1,4 +1,4 @@
-# v1
+# Riverpod examples
 
 A new Flutter project.
 
